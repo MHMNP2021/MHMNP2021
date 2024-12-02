@@ -69,7 +69,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/230892803-3745c28f-187a-41d6-a64b-6a52cf2e1c91.gif" width="400" alt="Animation Example"/>
 </p>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/3cda8ed8cd5eeb3501fa7201b842f324fcfdce4b092616b1ef4a1a8ab6a6e029/68747470733a2f2f692e696d6775722e636f6d2f54566b566f70492e676966" width="400" alt="Coding Animation"/>
+  <img src="https://camo.githubusercontent.com/3cda8ed8cd5eeb3501fa7201b842f324fcfdce4b092616b1ef4a1a8ab6a6e029/68747470733a2f2f692e696d6775722e636f6d2f54566b566f70492e676966" alt="Coding Animation" width="400"/>
 </p>
 
 ---
