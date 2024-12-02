@@ -1,8 +1,10 @@
 <p align="center">
   <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
 </p>
+<p align="right"> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></p>
+
 <h1 align="center">Hello 👋, I'm Mahinsa Nethmina</h1>
-<h3 align="center">✨ A Self-Learner with a Passion for Financial Mathematics and Industrial Statistics ✨</h3>
+<h3 align="center"> A Self-Learner with a Passion for Financial Mathematics and Industrial Statistics </h3>
 
 ---
 
