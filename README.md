@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mhmnp2021.github.io" target="_blank">
+  <a href="https://mhmnp2021.github.io/mnethmina.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
