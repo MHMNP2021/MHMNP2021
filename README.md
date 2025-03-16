@@ -25,33 +25,31 @@
 
 ## 📖 About Me
 
-- 🎓 I'm currently pursuing a BSc in Financial Mathematics & Industrial Statistics at University of Colombo
-- 🔍 Research interests include Risk Modeling, Time Series Analysis, and Computational Finance
+- 🎓 I'm currently pursuing a BSc Hons in Financial Mathematics & Industrial Statistics at University of Ruhuna
+- 🔍 Research interests include Financial Mathematics, Risk Modeling, Time Series Analysis, and Computational Finance
 - 🌱 Passionate about applying statistical methods to solve real-world financial problems
 - 📊 Experienced in data analysis, statistical modeling, and financial forecasting
 - 📫 Reach out to me: mhmn200021@gmail.com
-- ⚡ Fun fact: I enjoy solving complex mathematical puzzles in my free time
+- ⚡ Fun fact: I enjoy studing and referring biology, nature science, astronomy and ancient knowledges in my free time
 
 ---
 
 ## 🌟 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mhm-n-perera" target="_blank">
+  <a href="https://www.linkedin.com/in/mhm-n-perera-451284288" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/16504004/mhm-n-perera" target="_blank">
-    <img src="https://img.shields.io/badge/STACK_OVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
+
   <a href="https://kaggle.com/mahinsanethmina" target="_blank">
     <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-  <a href="https://fb.com/mnethmina" target="_blank">
+<!--   <a href="https://fb.com/mnethmina" target="_blank">
     <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://twitter.com/m_nethmina" target="_blank">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -62,13 +60,13 @@
   <tr>
     <td>
       <p>
-        🎓 <b>BSc in Financial Mathematics & Industrial Statistics</b><br>
-        University of Colombo, Sri Lanka<br>
+        🎓 <b>BSc Hons in Financial Mathematics & Industrial Statistics</b><br>
+        University of Ruhuna, Sri Lanka<br>
         <i>2020 - Present</i>
       </p>
       <p>
         🏫 <b>Advanced Level in Mathematics Stream</b><br>
-        Royal College, Colombo<br>
+        Sandalanka Central College, Wetakeyava<br>
         <i>2017 - 2019</i>
       </p>
       <p>
