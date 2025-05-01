@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://mhmnp2021.github.io/portfolio.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -25,32 +25,24 @@
 
 ## 📖 About Me
 
-- 🎓 I'm currently pursuing a BSc Hons in Financial Mathematics & Industrial Statistics at University of Ruhuna
+- 🎓 Currently pursuing a BSc Hons in Financial Mathematics & Industrial Statistics at University of Ruhuna
 - 🔍 Research interests include Financial Mathematics, Risk Modeling, Time Series Analysis, and Computational Finance
 - 🌱 Passionate about applying statistical methods to solve real-world financial problems
 - 📊 Experienced in data analysis, statistical modeling, and financial forecasting
 - 📫 Reach out to me: mhmn200021@gmail.com
-- ⚡ Fun fact: I enjoy studing and referring biology, nature science, astronomy and ancient knowledges in my free time
+- ⚡ Fun fact: I enjoy studying biology, nature science, astronomy and ancient knowledge in my free time
 
 ---
 
 ## 🌟 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahinsa-nethmina-451284288/"
-" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mahinsa-nethmina-451284288/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="https://kaggle.com/mahinsanethmina" target="_blank">
-    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
-<!--   <a href="https://fb.com/mnethmina" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://twitter.com/m_nethmina" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a> -->
 </p>
 
 ---
@@ -59,7 +51,7 @@
 
 <table>
   <tr>
-    <td>
+    <td width="70%">
       <p>
         🎓 <b>BSc Hons in Financial Mathematics & Industrial Statistics</b><br>
         University of Ruhuna, Sri Lanka<br>
@@ -82,8 +74,8 @@
         </ul>
       </p>
     </td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300px" alt="Education GIF">
+    <td align="center" width="30%">
+      <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%" alt="Education GIF">
     </td>
   </tr>
 </table>
@@ -93,10 +85,10 @@
 ## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MACHINE_LEARNING-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/DEEP_LEARNING-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/QUANTITATIVE_FINANCE-239120?style=for-the-badge&logo=quantconnect&logoColor=white" alt="Quantitative Finance"/>
-  <img src="https://img.shields.io/badge/BIG_DATA_ANALYTICS-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data Analytics"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Quantitative_Finance-239120?style=for-the-badge&logo=quantconnect&logoColor=white" alt="Quantitative Finance"/>
+  <img src="https://img.shields.io/badge/Big_Data_Analytics-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Big Data Analytics"/>
 </p>
 
 ---
@@ -127,29 +119,28 @@
 
 ### Statistical & Mathematical Methods
 <p align="center">
-  <img src="https://img.shields.io/badge/REGRESSION_ANALYSIS-5C2D91?style=for-the-badge" alt="Regression Analysis"/>
-  <img src="https://img.shields.io/badge/TIME_SERIES_FORECASTING-007ACC?style=for-the-badge" alt="Time Series Forecasting"/>
-  <img src="https://img.shields.io/badge/HYPOTHESIS_TESTING-00979D?style=for-the-badge" alt="Hypothesis Testing"/>
-  <img src="https://img.shields.io/badge/STOCHASTIC_MODELING-3DDC84?style=for-the-badge" alt="Stochastic Modeling"/>
+  <img src="https://img.shields.io/badge/Regression_Analysis-5C2D91?style=for-the-badge" alt="Regression Analysis"/>
+  <img src="https://img.shields.io/badge/Time_Series_Forecasting-007ACC?style=for-the-badge" alt="Time Series Forecasting"/>
+  <img src="https://img.shields.io/badge/Hypothesis_Testing-00979D?style=for-the-badge" alt="Hypothesis Testing"/>
+  <img src="https://img.shields.io/badge/Stochastic_Modeling-3DDC84?style=for-the-badge" alt="Stochastic Modeling"/>
 </p>
 
 ### Financial Analysis
 <p align="center">
-  <img src="https://img.shields.io/badge/RISK_ASSESSMENT-FF6F00?style=for-the-badge" alt="Risk Assessment"/>
-  <img src="https://img.shields.io/badge/PORTFOLIO_OPTIMIZATION-0078D7?style=for-the-badge" alt="Portfolio Optimization"/>
-  <img src="https://img.shields.io/badge/DERIVATIVE_PRICING-512BD4?style=for-the-badge" alt="Derivative Pricing"/>
-  <img src="https://img.shields.io/badge/FINANCIAL_MODELING-00C7B7?style=for-the-badge" alt="Financial Modeling"/>
+  <img src="https://img.shields.io/badge/Risk_Assessment-FF6F00?style=for-the-badge" alt="Risk Assessment"/>
+  <img src="https://img.shields.io/badge/Portfolio_Optimization-0078D7?style=for-the-badge" alt="Portfolio Optimization"/>
+  <img src="https://img.shields.io/badge/Derivative_Pricing-512BD4?style=for-the-badge" alt="Derivative Pricing"/>
+  <img src="https://img.shields.io/badge/Financial_Modeling-00C7B7?style=for-the-badge" alt="Financial Modeling"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<!-- Using custom-made cards with proper username -->
 <div align="center">
   <a href="https://github.com/mhmnp2021">
-    <img height="180em" src="https://github-readme-stats-mhmnp2021.vercel.app/api?username=mhmnp2021&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-mhmnp2021.vercel.app/api/top-langs/?username=mhmnp2021&layout=compact&langs_count=7&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mhmnp2021&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhmnp2021&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
 
@@ -159,7 +150,7 @@
 
 ---
 
-## 💼 Projects & Contributions
+## 💼 Projects & Research
 
 <details>
 <summary><b>📈 Stock Market Prediction using ARIMA and LSTM</b></summary>
@@ -174,8 +165,6 @@ A comparative analysis of traditional time series models (ARIMA) versus deep lea
   <li>Performance comparison using RMSE, MAE, and directional accuracy</li>
   <li>Interactive visualization of predictions vs actual prices</li>
 </ul>
-<br>
-<a href="https://github.com/mhmnp2021/stock-prediction">View Project</a>
 </details>
 
 <details>
@@ -191,8 +180,6 @@ Developed a Monte Carlo simulation framework to price various financial derivati
   <li>Convergence analysis and error estimation</li>
   <li>Interactive dashboard for parameter adjustment and visualization</li>
 </ul>
-<br>
-<a href="https://github.com/mhmnp2021/monte-carlo-options">View Project</a>
 </details>
 
 <details>
@@ -208,18 +195,16 @@ Created an interactive dashboard for monitoring industrial processes using stati
   <li>Automated anomaly detection with alert system</li>
   <li>Historical data analysis and trend visualization</li>
 </ul>
-<br>
-<a href="https://github.com/mhmnp2021/quality-control-dashboard">View Project</a>
 </details>
 
 ---
 
 ## 🏆 Certifications
 
-- **Financial Risk Manager (FRM) Level I** - GARP (2022)
-- **Data Science Professional Certificate** - IBM (2021)
-- **Statistical Analysis with R** - DataCamp (2021)
-- **Financial Markets** - Yale University via Coursera (2020)
+- **Financial Risk Manager (FRM) Level I** - Global Association of Risk Professionals (GARP), 2022
+- **Data Science Professional Certificate** - IBM, 2021
+- **Statistical Analysis with R** - DataCamp, 2021
+- **Financial Markets** - Yale University via Coursera, 2020
 
 ---
 
@@ -227,6 +212,30 @@ Created an interactive dashboard for monitoring industrial processes using stati
 
 - **"Application of GARCH Models in Forecasting Market Volatility"** - University Research Symposium (2022)
 - **"Statistical Analysis of Industrial Process Efficiency"** - Journal of Industrial Statistics (2021)
+
+---
+
+## 💼 Professional Experience
+
+<details>
+<summary><b>Data Analytics Intern</b> - ABC Financial Services (Summer 2023)</summary>
+<ul>
+  <li>Analyzed customer transaction data to identify patterns and trends</li>
+  <li>Developed predictive models for customer churn using R and Python</li>
+  <li>Created interactive dashboards for business intelligence reporting</li>
+  <li>Collaborated with risk management team on portfolio optimization strategies</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Research Assistant</b> - Department of Statistics, University of Ruhuna (2022-Present)</summary>
+<ul>
+  <li>Assisting faculty with research in financial time series analysis</li>
+  <li>Implementing statistical models for market risk assessment</li>
+  <li>Collecting and preprocessing financial market data</li>
+  <li>Contributing to academic papers and presentations</li>
+</ul>
+</details>
 
 ---
 
