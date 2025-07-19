@@ -252,7 +252,7 @@ Assessed customer satisfaction differences across three bank branches using one-
 
 ## 🏆 Certifications
 
-- 🏅 **Acturarial Training Programme for Non-Actuaries life Insurance Financial Aspects** – SG Actuarial Consultancy (2025)  
+- 🏅 **Actuarial Training Program for Non-Actuaries: Life Insurance Financial Aspects** – SG Actuarial Consultancy (2025)  
   
 ---
 
