@@ -262,6 +262,11 @@ Assessed customer satisfaction differences across three bank branches using one-
 ---
 
 ## 💼 Professional Experience
+
+<details>
+  Aspiring financial analyst | Ready to learn, contribute, and create value
+</details>
+
 <!--
 <details>
 <summary><b>Research Assistant</b> – Dept. of Statistics, University of Ruhuna (2023–Present)</summary>
