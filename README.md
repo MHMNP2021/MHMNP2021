@@ -105,7 +105,9 @@
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="50"/></a>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50"/></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg" alt="Power BI" width="50"/></a>
+ <a href="https://powerbi.microsoft.com/" target="_blank">
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" alt="Power BI" width="50"/>
+</a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel" width="50"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50"/></a>
   <a href="https://www.latex-project.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="50"/></a>
@@ -263,9 +265,7 @@ Assessed customer satisfaction differences across three bank branches using one-
 
 ## 💼 Professional Experience
 
-<details>
-  Aspiring financial analyst | Ready to learn, contribute, and create value
-</details>
+  Ready to learn, contribute, and create value
 
 <!--
 <details>
